@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "projectName": "test project 18:09:69",
+    "fps": 30,
+    "totalDurationSec": 1362.634,
+    "totalEvents": 15,
+    "generatedAt": "2026-09-18T01:32:39.271061Z"
+  },
+  "events": [
+    {
+      "id": "HCCTTUMJEU",
+      "name": "copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+      "type": "clip",
+      "layer": 5000000,
+      "startSec": 0,
+      "endSec": 134.333,
+      "durationSec": 134.333,
+      "startMs": 0,
+      "endMs": 134333,
+      "durationMs": 134333,
+      "action": "PLAY_MEDIA",
+      "payload": {
+        "mediaPath": "../Downloads/copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+        "fileId": "GV21GMLUY8"
+      }
+    },
+    {
+      "id": "18YELEVLNU",
+      "name": "wipe_left_to_right.svg",
+      "type": "transition",
+      "layer": 5000000,
+      "startSec": 134.067,
+      "endSec": 144.067,
+      "durationSec": 10,
+      "startMs": 134067,
+      "endMs": 144067,
+      "durationMs": 10000,
+      "action": "TRIGGER_TRANSITION",
+      "payload": {
+        "effectType": "wipe_left_to_right",
+        "path": "@transitions/common/wipe_left_to_right.svg"
+      }
+    },
+    {
+      "id": "PG4IRVOW76",
+      "name": "copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+      "type": "clip",
+      "layer": 5000000,
+      "startSec": 144.133,
+      "endSec": 257.966,
+      "durationSec": 113.833,
+      "startMs": 144133,
+      "endMs": 257966,
+      "durationMs": 113833,
+      "action": "PLAY_MEDIA",
+      "payload": {
+        "mediaPath": "../Downloads/copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+        "fileId": "GV21GMLUY8"
+      }
+    },
+    {
+      "id": "8RIS37ZIC8",
+      "name": "wipe_left_to_right.svg",
+      "type": "transition",
+      "layer": 5000000,
+      "startSec": 258.333,
+      "endSec": 268.333,
+      "durationSec": 10,
+      "startMs": 258333,
+      "endMs": 268333,
+      "durationMs": 10000,
+      "action": "TRIGGER_TRANSITION",
+      "payload": {
+        "effectType": "wipe_left_to_right",
+        "path": "@transitions/common/wipe_left_to_right.svg"
+      }
+    },
+    {
+      "id": "GW5H9B27CZ",
+      "name": "copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+      "type": "clip",
+      "layer": 5000000,
+      "startSec": 268.567,
+      "endSec": 329.934,
+      "durationSec": 61.367,
+      "startMs": 268567,
+      "endMs": 329934,
+      "durationMs": 61367,
+      "action": "PLAY_MEDIA",
+      "payload": {
+        "mediaPath": "../Downloads/copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+        "fileId": "GV21GMLUY8"
+      }
+    },
+    {
+      "id": "4T3TZVDO9C",
+      "name": "wipe_left_to_right.svg",
+      "type": "transition",
+      "layer": 5000000,
+      "startSec": 329.967,
+      "endSec": 339.967,
+      "durationSec": 10,
+      "startMs": 329967,
+      "endMs": 339967,
+      "durationMs": 10000,
+      "action": "TRIGGER_TRANSITION",
+      "payload": {
+        "effectType": "wipe_left_to_right",
+        "path": "@transitions/common/wipe_left_to_right.svg"
+      }
+    },
+    {
+      "id": "H95JVVN3B1",
+      "name": "copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+      "type": "clip",
+      "layer": 5000000,
+      "startSec": 340.033,
+      "endSec": 695,
+      "durationSec": 354.967,
+      "startMs": 340033,
+      "endMs": 695000,
+      "durationMs": 354967,
+      "action": "PLAY_MEDIA",
+      "payload": {
+        "mediaPath": "../Downloads/copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+        "fileId": "GV21GMLUY8"
+      }
+    },
+    {
+      "id": "MOTR0DJ7PW",
+      "name": "copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+      "type": "clip",
+      "layer": 5000000,
+      "startSec": 695,
+      "endSec": 900.4,
+      "durationSec": 205.4,
+      "startMs": 695000,
+      "endMs": 900400,
+      "durationMs": 205400,
+      "action": "PLAY_MEDIA",
+      "payload": {
+        "mediaPath": "../Downloads/copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+        "fileId": "GV21GMLUY8"
+      }
+    },
+    {
+      "id": "7TT4EW1BQW",
+      "name": "wipe_left_to_right.svg",
+      "type": "transition",
+      "layer": 5000000,
+      "startSec": 695.3,
+      "endSec": 705.3,
+      "durationSec": 10,
+      "startMs": 695300,
+      "endMs": 705300,
+      "durationMs": 10000,
+      "action": "TRIGGER_TRANSITION",
+      "payload": {
+        "effectType": "wipe_left_to_right",
+        "path": "@transitions/common/wipe_left_to_right.svg"
+      }
+    },
+    {
+      "id": "72GUIQJRTO",
+      "name": "wipe_left_to_right.svg",
+      "type": "transition",
+      "layer": 5000000,
+      "startSec": 900.703,
+      "endSec": 910.703,
+      "durationSec": 10,
+      "startMs": 900703,
+      "endMs": 910703,
+      "durationMs": 10000,
+      "action": "TRIGGER_TRANSITION",
+      "payload": {
+        "effectType": "wipe_left_to_right",
+        "path": "@transitions/common/wipe_left_to_right.svg"
+      }
+    },
+    {
+      "id": "K4NR75SKCF",
+      "name": "copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+      "type": "clip",
+      "layer": 5000000,
+      "startSec": 910.7,
+      "endSec": 1207.467,
+      "durationSec": 296.767,
+      "startMs": 910700,
+      "endMs": 1207467,
+      "durationMs": 296767,
+      "action": "PLAY_MEDIA",
+      "payload": {
+        "mediaPath": "../Downloads/copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+        "fileId": "GV21GMLUY8"
+      }
+    },
+    {
+      "id": "6FD79ISK6S",
+      "name": "wipe_left_to_right.svg",
+      "type": "transition",
+      "layer": 5000000,
+      "startSec": 1207.633,
+      "endSec": 1217.633,
+      "durationSec": 10,
+      "startMs": 1207633,
+      "endMs": 1217633,
+      "durationMs": 10000,
+      "action": "TRIGGER_TRANSITION",
+      "payload": {
+        "effectType": "wipe_left_to_right",
+        "path": "@transitions/common/wipe_left_to_right.svg"
+      }
+    },
+    {
+      "id": "D2XDMT48UK",
+      "name": "copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+      "type": "clip",
+      "layer": 5000000,
+      "startSec": 1218.067,
+      "endSec": 1285.734,
+      "durationSec": 67.667,
+      "startMs": 1218067,
+      "endMs": 1285734,
+      "durationMs": 67667,
+      "action": "PLAY_MEDIA",
+      "payload": {
+        "mediaPath": "../Downloads/copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+        "fileId": "GV21GMLUY8"
+      }
+    },
+    {
+      "id": "I20BCKX1TX",
+      "name": "wipe_left_to_right.svg",
+      "type": "transition",
+      "layer": 5000000,
+      "startSec": 1285.333,
+      "endSec": 1295.333,
+      "durationSec": 10,
+      "startMs": 1285333,
+      "endMs": 1295333,
+      "durationMs": 10000,
+      "action": "TRIGGER_TRANSITION",
+      "payload": {
+        "effectType": "wipe_left_to_right",
+        "path": "@transitions/common/wipe_left_to_right.svg"
+      }
+    },
+    {
+      "id": "DQO3Y4M6II",
+      "name": "copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+      "type": "clip",
+      "layer": 5000000,
+      "startSec": 1295.267,
+      "endSec": 1362.634,
+      "durationSec": 67.367,
+      "startMs": 1295267,
+      "endMs": 1362634,
+      "durationMs": 67367,
+      "action": "PLAY_MEDIA",
+      "payload": {
+        "mediaPath": "../Downloads/copy_0EFBE3D6-211C-4F24-AB50-4F0DE4302850.MOV",
+        "fileId": "GV21GMLUY8"
+      }
+    }
+  ]
+}
